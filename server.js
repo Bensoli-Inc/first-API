@@ -1,7 +1,7 @@
 const express = require('express'); //I imported the express framwework and saved it on a varibale. same to the other modules below
 const mysql = require('mysql'); //I imported mysql database driver
 const nodemailer = require('nodemailer'); //I imported the nodemailer module for sending confirmation emailss
-const bcypt = require('bcrypt'); //I imported the bcrypt module for hashing the passwordss
+const bcypt = require('bcrypt'); //I imported the bcrypt module for hashing the passwords
 
 //I have to setup the express app
 
